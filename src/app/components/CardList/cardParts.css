@@ -1,0 +1,13 @@
+  .bg-color{
+      background-color: #FFFFFF !important;
+     
+}
+.font-size{
+    font-size: 12px !important;
+}
+
+.card-background{
+    background-image: url("../../asets/images/Girl-bg.svg") !important;
+    background-repeat: no-repeat;
+   
+}

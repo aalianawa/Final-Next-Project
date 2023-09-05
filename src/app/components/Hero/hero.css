@@ -1,0 +1,16 @@
+.bg-img{
+    background-image: url("../../asets/images/background.svg");
+    height: 600px;
+}
+.text-tittle{
+    font-family:  'Poppins';
+     margin-top: 230px;
+   
+}
+.colour{
+    background: #E5B300;
+
+}
+.text-2{
+    font-family:  'Poppins';
+}
