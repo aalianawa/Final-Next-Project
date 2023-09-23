@@ -16,7 +16,8 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-    
+     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'></link>
+     <link href='https://fonts.googleapis.com/css?family=Rubik' rel='stylesheet'></link>
 
       <body className={inter.className}>{children}</body>
     </html>

@@ -1,0 +1,82 @@
+.bg-color {
+    background: black;
+    /* height: 650px; */
+}
+
+.pera {
+    color: #E6AF2E63;
+    font-family: 'Poppins';
+
+}
+
+.heading {
+    color: #FFFFFF;
+    font-family: 'Poppins';
+}
+
+.span-title {
+    color: #BFC200;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+
+    .star{
+        margin-bottom: -55px;
+    }
+.price {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'Rubik';
+}
+
+.card-color {
+    background-color: #292727;
+    width: 390px;
+}
+.numb {
+    font-size: 25px;
+}
+
+
+.primary-button {
+    position: relative;
+    display: flex;
+    left: 5px;
+    width: 90px;
+    color: #c6bc02;
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid #b7ab04;
+    box-shadow: 0 0 8px 0 rgba(10, 9, 9, 0.25);
+    background-color: black;
+
+
+}
+
+
+.primary-button_text {
+    display: block;
+    height: 44px;
+    width: 93px;
+    border: 1px solid #c6bc02;
+
+
+    font-size: 10px;
+    margin: -27px -27px -26px -30px;
+    padding: 15px;
+    padding-left: 18px;
+}
+
+/* .primary-button:active {
+    transform: translateY(9px) translateX(9px);
+} */
+
+.shadow {
+    margin-bottom: -290px;
+    margin-left: 20px;
+}
+
+.back-shadow {
+    margin-top: -370px !important;
+}
